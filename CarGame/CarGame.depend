@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1548307803 source:d:\miu\comp_graphics\assignement\cargame\cargame.cpp
+	<windows.h>
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<stdlib.h>
+	<stdio.h>
+	<iostream>
+	<string>
+
